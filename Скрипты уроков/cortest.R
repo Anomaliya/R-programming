@@ -8,6 +8,9 @@ cor.test(~ mpg + hp, df)
 str(fit)
 
 fit$p.value
+fit$estimate
+
+
 
 plot(x = df$mpg, y = df$hp)
 
