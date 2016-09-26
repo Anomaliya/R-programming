@@ -1,4 +1,3 @@
-setwd("D:/4_Учебное/R_lessons")
 
 # Categorical data
 
